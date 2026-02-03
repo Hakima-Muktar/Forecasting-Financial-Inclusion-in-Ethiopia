@@ -1,2 +1,12 @@
 data/
 venv/
+.ipynb_checkpoints/
+.DS_Store
+reports/figures/*.png
+reports/figures/*.jpg
+data/processed/
+models/*.pkl
+models/*.joblib
+data
+ch.md 
+r.md 
